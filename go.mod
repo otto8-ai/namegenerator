@@ -1,1 +1,3 @@
-module github.com/goombaio/namegenerator
+module github.com/acorn-io/namegenerator
+
+go 1.19

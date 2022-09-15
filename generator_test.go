@@ -1,3 +1,4 @@
+// Copyright 2022 [Acorn Labs, Inc.](http://acorn.io)
 // Copyright 2018, Goomba project Authors. All rights reserved.
 //
 // Licensed to the Apache Software Foundation (ASF) under one or more
