@@ -1,3 +1,3 @@
-module github.com/acorn-io/namegenerator
+module github.com/otto8-ai/namegenerator
 
-go 1.19
+go 1.23.2
