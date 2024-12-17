@@ -14,7 +14,7 @@ go get github.com/acorn-io/namegenerator
 package main
 
 import (
-    "github.com/goombaio/namegenerator"
+    "github.com/obot-platform/namegenerator"
 )
 
 func main() {

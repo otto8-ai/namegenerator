@@ -1,3 +1,3 @@
-module github.com/otto8-ai/namegenerator
+module github.com/obot-platform/namegenerator
 
 go 1.23.2
